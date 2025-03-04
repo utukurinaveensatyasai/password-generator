@@ -37,6 +37,8 @@ This is a **lightweight, fast, and secure** password generator built with **HTML
 No installation needed! Simply open `index.html` in any modern browser and start generating passwords.
 
 ## Live demo : https://utukurinaveensatyasai.github.io/password-generator/
+[🔗 Live Demo](https://utukurinaveensatyasai.github.io/password-generator/)
+
 ## Contributions
 If you have ideas for improvement, feel free to fork the repository and submit a pull request.
 
