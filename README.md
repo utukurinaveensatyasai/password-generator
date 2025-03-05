@@ -28,10 +28,10 @@ This is a **lightweight, fast, and secure** password generator built with **HTML
 - **Weak (Red)** ❌ – Less than **8 characters** or lacks character variety
 
 ## Future Enhancements
-🔹 Add **password history** feature
-🔹 Implement **dark mode toggle**
-🔹 Enable **custom character inclusion**
-🔹 Add **user-defined rules** for password creation
+- 🔹 Add **password history** feature
+- 🔹 Implement **dark mode toggle**
+- 🔹 Enable **custom character inclusion**
+- 🔹 Add **user-defined rules** for password creation
 
 ## Installation & Setup
 No installation needed! Simply open `index.html` in any modern browser and start generating passwords.
