@@ -4,12 +4,12 @@
 This is a **lightweight, fast, and secure** password generator built with **HTML, CSS, and JavaScript**. It allows users to create **strong passwords** with customizable options such as uppercase letters, lowercase letters, numbers, and symbols.
 
 ## Features
-✅ Adjustable password length (**6-20 characters**)
-✅ **Include/exclude** uppercase, lowercase, numbers, and symbols
-✅ **Instant copy** button to save passwords easily
-✅ **Password strength indicator** (Weak, Medium, Strong)
-✅ Fully **responsive UI** for mobile and desktop
-✅ **Fast and lightweight** – No database or backend required
+- ✅ Adjustable password length (**6-20 characters**)
+- ✅ **Include/exclude** uppercase, lowercase, numbers, and symbols
+- ✅ **Instant copy** button to save passwords easily
+- ✅ **Password strength indicator** (Weak, Medium, Strong)
+- ✅ Fully **responsive UI** for mobile and desktop
+- ✅ **Fast and lightweight** – No database or backend required
 
 ## Technologies Used
 - **HTML** – Structured user interface
